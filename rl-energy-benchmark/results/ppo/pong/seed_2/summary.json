@@ -1,0 +1,8 @@
+{
+  "model": "PPO",
+  "env": "PongNoFrameskip-v4",
+  "seed": 2,
+  "total_steps": 100000,
+  "elapsed_seconds": 134.750457,
+  "emissions_kg_co2": 0.0019047060548415726
+}

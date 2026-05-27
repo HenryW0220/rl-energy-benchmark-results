@@ -1,0 +1,8 @@
+{
+  "model": "DreamerV3",
+  "env": "atari100k/Pong",
+  "seed": 1,
+  "total_steps": 100000,
+  "elapsed_seconds": 2896.667098760605,
+  "emissions_kg_co2": 0.05505840257187458
+}

@@ -1,0 +1,8 @@
+{
+  "model": "PPO",
+  "env": "DMC/cartpole-balance",
+  "seed": 2,
+  "total_steps": 500000,
+  "elapsed_seconds": 578.945645,
+  "emissions_kg_co2": 0.007243414731003667
+}

@@ -1,0 +1,8 @@
+{
+  "model": "TD-MPC2",
+  "env": "DMC/cartpole-balance",
+  "seed": 1,
+  "total_steps": 100000,
+  "elapsed_seconds": 6674.612321615219,
+  "emissions_kg_co2": 0.05085767425694816
+}

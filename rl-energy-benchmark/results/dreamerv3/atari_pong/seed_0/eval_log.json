@@ -1,0 +1,167 @@
+[
+  {
+    "step": 10000,
+    "mean_reward": -20.4,
+    "num_episodes": 5
+  },
+  {
+    "step": 20000,
+    "mean_reward": -21.0,
+    "num_episodes": 3
+  },
+  {
+    "step": 30000,
+    "mean_reward": -20.5,
+    "num_episodes": 2
+  },
+  {
+    "step": 40000,
+    "mean_reward": -20.333333333333332,
+    "num_episodes": 3
+  },
+  {
+    "step": 50000,
+    "mean_reward": -21.0,
+    "num_episodes": 3
+  },
+  {
+    "step": 60000,
+    "mean_reward": -20.666666666666668,
+    "num_episodes": 3
+  },
+  {
+    "step": 70000,
+    "mean_reward": -21.0,
+    "num_episodes": 4
+  },
+  {
+    "step": 80000,
+    "mean_reward": -21.0,
+    "num_episodes": 3
+  },
+  {
+    "step": 90000,
+    "mean_reward": -21.0,
+    "num_episodes": 3
+  },
+  {
+    "step": 100000,
+    "mean_reward": -21.0,
+    "num_episodes": 2
+  },
+  {
+    "step": 110000,
+    "mean_reward": -20.333333333333332,
+    "num_episodes": 3
+  },
+  {
+    "step": 120000,
+    "mean_reward": -20.666666666666668,
+    "num_episodes": 3
+  },
+  {
+    "step": 130000,
+    "mean_reward": -20.0,
+    "num_episodes": 2
+  },
+  {
+    "step": 140000,
+    "mean_reward": -21.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 150000,
+    "mean_reward": -18.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 160000,
+    "mean_reward": -18.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 170000,
+    "mean_reward": -16.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 180000,
+    "mean_reward": -17.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 190000,
+    "mean_reward": -13.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 200000,
+    "mean_reward": -15.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 210000,
+    "mean_reward": -18.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 230000,
+    "mean_reward": -16.0,
+    "num_episodes": 2
+  },
+  {
+    "step": 240000,
+    "mean_reward": -18.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 250000,
+    "mean_reward": -16.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 270000,
+    "mean_reward": -18.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 280000,
+    "mean_reward": -13.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 290000,
+    "mean_reward": -11.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 300000,
+    "mean_reward": -14.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 320000,
+    "mean_reward": -8.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 340000,
+    "mean_reward": -9.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 350000,
+    "mean_reward": -12.0,
+    "num_episodes": 1
+  },
+  {
+    "step": 370000,
+    "mean_reward": -12.5,
+    "num_episodes": 2
+  },
+  {
+    "step": 390000,
+    "mean_reward": -12.0,
+    "num_episodes": 1
+  }
+]

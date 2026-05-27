@@ -1,0 +1,8 @@
+{
+  "model": "DreamerV3",
+  "env": "DMC/cartpole-balance",
+  "seed": 0,
+  "total_steps": 100000,
+  "elapsed_seconds": 5810.318648099899,
+  "emissions_kg_co2": 0.05656536304914604
+}

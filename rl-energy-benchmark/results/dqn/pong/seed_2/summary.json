@@ -1,0 +1,8 @@
+{
+  "model": "DQN",
+  "env": "PongNoFrameskip-v4",
+  "seed": 2,
+  "total_steps": 100000,
+  "elapsed_seconds": 343.811148,
+  "emissions_kg_co2": 0.004589458009867072
+}
