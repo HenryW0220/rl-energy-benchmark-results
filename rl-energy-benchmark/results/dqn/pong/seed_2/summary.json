@@ -1,8 +1,8 @@
 {
   "model": "DQN",
-  "env": "PongNoFrameskip-v4",
+  "env": "ALE/Pong-v5",
   "seed": 2,
-  "total_steps": 100000,
-  "elapsed_seconds": 343.811148,
-  "emissions_kg_co2": 0.004589458009867072
+  "total_steps": 2000000,
+  "elapsed_seconds": 6056.871129,
+  "emissions_kg_co2": 0.03613691814287202
 }
