@@ -1,42 +1,22 @@
 [
   {
-    "step": 10000,
-    "mean_reward": -21.0
-  },
-  {
-    "step": 20000,
-    "mean_reward": -21.0
-  },
-  {
-    "step": 30000,
-    "mean_reward": -21.0
-  },
-  {
-    "step": 40000,
-    "mean_reward": -21.0
-  },
-  {
-    "step": 50000,
-    "mean_reward": -20.0
-  },
-  {
-    "step": 60000,
-    "mean_reward": -21.0
-  },
-  {
-    "step": 70000,
-    "mean_reward": -19.9
-  },
-  {
-    "step": 80000,
-    "mean_reward": -21.0
-  },
-  {
-    "step": 90000,
-    "mean_reward": -21.0
-  },
-  {
     "step": 100000,
-    "mean_reward": -21.0
+    "mean_reward": -20.799999237060547,
+    "cumulative_energy_j": 12938.547336929849
+  },
+  {
+    "step": 200000,
+    "mean_reward": -20.299999237060547,
+    "cumulative_energy_j": 29285.3511983108
+  },
+  {
+    "step": 300000,
+    "mean_reward": -18.299999237060547,
+    "cumulative_energy_j": 45657.18327124774
+  },
+  {
+    "step": 400000,
+    "mean_reward": -16.799999237060547,
+    "cumulative_energy_j": 63035.221361931995
   }
 ]
