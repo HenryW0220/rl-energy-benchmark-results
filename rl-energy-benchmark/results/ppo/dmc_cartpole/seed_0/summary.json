@@ -3,6 +3,6 @@
   "env": "DMC/cartpole-balance",
   "seed": 0,
   "total_steps": 500000,
-  "elapsed_seconds": 626.898142,
-  "emissions_kg_co2": 0.00799146004480425
+  "elapsed_seconds": 672.881774,
+  "emissions_kg_co2": 0.008606502561979201
 }
