@@ -1,46 +1,57 @@
 [
   {
     "step": 0,
-    "mean_reward": 264.7294006347656
+    "mean_reward": 264.7294006347656,
+    "cumulative_energy_j": 0.0
   },
   {
     "step": 10000,
-    "mean_reward": 768.9185791015625
+    "mean_reward": 768.9185791015625,
+    "cumulative_energy_j": 49563.6
   },
   {
     "step": 20000,
-    "mean_reward": 978.9993286132812
+    "mean_reward": 978.9993286132812,
+    "cumulative_energy_j": 99127.3
   },
   {
     "step": 30000,
-    "mean_reward": 973.9127807617188
+    "mean_reward": 973.9127807617188,
+    "cumulative_energy_j": 148690.9
   },
   {
     "step": 40000,
-    "mean_reward": 867.8873291015625
+    "mean_reward": 867.8873291015625,
+    "cumulative_energy_j": 198254.6
   },
   {
     "step": 50000,
-    "mean_reward": 994.6862182617188
+    "mean_reward": 994.6862182617188,
+    "cumulative_energy_j": 247818.2
   },
   {
     "step": 60000,
-    "mean_reward": 998.4364013671876
+    "mean_reward": 998.4364013671876,
+    "cumulative_energy_j": 297381.9
   },
   {
     "step": 70000,
-    "mean_reward": 998.98876953125
+    "mean_reward": 998.98876953125,
+    "cumulative_energy_j": 346945.5
   },
   {
     "step": 80000,
-    "mean_reward": 999.0572509765624
+    "mean_reward": 999.0572509765624,
+    "cumulative_energy_j": 396509.1
   },
   {
     "step": 90000,
-    "mean_reward": 998.30517578125
+    "mean_reward": 998.30517578125,
+    "cumulative_energy_j": 446072.8
   },
   {
     "step": 100000,
-    "mean_reward": 998.1560668945312
+    "mean_reward": 998.1560668945312,
+    "cumulative_energy_j": 495636.4
   }
 ]

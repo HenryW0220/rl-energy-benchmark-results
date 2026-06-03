@@ -2,46 +2,55 @@
   {
     "step": 10000,
     "mean_reward": 253.17571895301876,
-    "num_episodes": 19
+    "num_episodes": 19,
+    "cumulative_energy_j": 55334.5
   },
   {
     "step": 20000,
     "mean_reward": 500.5893322449733,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 110669.1
   },
   {
     "step": 30000,
     "mean_reward": 603.5762036249349,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 166003.6
   },
   {
     "step": 40000,
     "mean_reward": 925.1958035065509,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 221338.1
   },
   {
     "step": 50000,
     "mean_reward": 957.4097817989219,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 276672.7
   },
   {
     "step": 60000,
     "mean_reward": 948.8483369410038,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 332007.2
   },
   {
     "step": 70000,
     "mean_reward": 948.3117479026317,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 387341.7
   },
   {
     "step": 80000,
     "mean_reward": 953.8368619501591,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 442676.2
   },
   {
     "step": 90000,
     "mean_reward": 959.59163428545,
-    "num_episodes": 10
+    "num_episodes": 10,
+    "cumulative_energy_j": 498010.8
   }
 ]

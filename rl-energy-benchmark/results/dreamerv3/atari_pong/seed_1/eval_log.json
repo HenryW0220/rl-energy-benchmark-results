@@ -2,186 +2,223 @@
   {
     "step": 10000,
     "mean_reward": -20.2,
-    "num_episodes": 5
+    "num_episodes": 5,
+    "cumulative_energy_j": 53860.4
   },
   {
     "step": 20000,
     "mean_reward": -19.5,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 107720.7
   },
   {
     "step": 30000,
     "mean_reward": -21.0,
-    "num_episodes": 4
+    "num_episodes": 4,
+    "cumulative_energy_j": 161581.1
   },
   {
     "step": 40000,
     "mean_reward": -21.0,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 215441.4
   },
   {
     "step": 50000,
     "mean_reward": -20.666666666666668,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 269301.8
   },
   {
     "step": 60000,
     "mean_reward": -21.0,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 323162.2
   },
   {
     "step": 70000,
     "mean_reward": -21.0,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 377022.5
   },
   {
     "step": 80000,
     "mean_reward": -21.0,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 430882.9
   },
   {
     "step": 90000,
     "mean_reward": -20.666666666666668,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 484743.2
   },
   {
     "step": 100000,
     "mean_reward": -20.333333333333332,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 538603.6
   },
   {
     "step": 110000,
     "mean_reward": -20.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 592464.0
   },
   {
     "step": 120000,
     "mean_reward": -20.666666666666668,
-    "num_episodes": 3
+    "num_episodes": 3,
+    "cumulative_energy_j": 646324.3
   },
   {
     "step": 130000,
     "mean_reward": -20.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 700184.7
   },
   {
     "step": 140000,
     "mean_reward": -19.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 754045.0
   },
   {
     "step": 150000,
     "mean_reward": -19.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 807905.4
   },
   {
     "step": 160000,
     "mean_reward": -19.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 861765.8
   },
   {
     "step": 170000,
     "mean_reward": -16.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 915626.1
   },
   {
     "step": 180000,
     "mean_reward": -16.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 969486.5
   },
   {
     "step": 190000,
     "mean_reward": -17.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1023346.8
   },
   {
     "step": 200000,
     "mean_reward": -16.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 1077207.2
   },
   {
     "step": 210000,
     "mean_reward": -17.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1131067.6
   },
   {
     "step": 220000,
     "mean_reward": -17.0,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 1184927.9
   },
   {
     "step": 230000,
     "mean_reward": -13.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1238788.3
   },
   {
     "step": 240000,
     "mean_reward": -17.5,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 1292648.7
   },
   {
     "step": 250000,
     "mean_reward": -18.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1346509.0
   },
   {
     "step": 260000,
     "mean_reward": -14.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1400369.4
   },
   {
     "step": 270000,
     "mean_reward": -15.5,
-    "num_episodes": 2
+    "num_episodes": 2,
+    "cumulative_energy_j": 1454229.7
   },
   {
     "step": 280000,
     "mean_reward": -14.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1508090.1
   },
   {
     "step": 290000,
     "mean_reward": -12.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1561950.5
   },
   {
     "step": 300000,
     "mean_reward": -16.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1615810.8
   },
   {
     "step": 310000,
     "mean_reward": -19.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1669671.2
   },
   {
     "step": 320000,
     "mean_reward": -14.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1723531.5
   },
   {
     "step": 330000,
     "mean_reward": -14.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1777391.9
   },
   {
     "step": 350000,
     "mean_reward": -13.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1885112.6
   },
   {
     "step": 360000,
     "mean_reward": -15.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1938973.0
   },
   {
     "step": 370000,
     "mean_reward": -12.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 1992833.3
   },
   {
     "step": 390000,
     "mean_reward": -13.0,
-    "num_episodes": 1
+    "num_episodes": 1,
+    "cumulative_energy_j": 2100554.1
   }
 ]
