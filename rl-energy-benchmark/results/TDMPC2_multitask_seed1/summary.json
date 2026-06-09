@@ -1,0 +1,14 @@
+{
+  "model": "TDMPC2",
+  "mode": "sequential_singletask",
+  "tasks": [
+    "cartpole-balance",
+    "walker-walk"
+  ],
+  "steps_per_task": 100000,
+  "total_steps": 200000,
+  "seed": 1,
+  "elapsed_seconds": 12932.764736,
+  "emissions_kg_co2": 0.09487359640004375,
+  "energy_per_step_avg": 4.7436798200021876e-07
+}

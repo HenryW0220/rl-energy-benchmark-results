@@ -1,0 +1,9 @@
+{
+  "model": "PPO",
+  "env": "dmc_walker_walk",
+  "seed": 1,
+  "total_steps": 100000,
+  "elapsed_seconds": 320.308445,
+  "emissions_kg_co2": 0.001767792031745391,
+  "energy_per_step_avg": 1.7677920317453912e-08
+}

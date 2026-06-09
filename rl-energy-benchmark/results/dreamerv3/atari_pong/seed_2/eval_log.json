@@ -3,228 +3,266 @@
     "step": 10000,
     "mean_reward": -21.0,
     "num_episodes": 5,
-    "cumulative_energy_j": 53581.0
+    "cumulative_energy_j": 53581.0,
+    "energy_per_step_kg_co2": 0.00547728162903323
   },
   {
     "step": 20000,
     "mean_reward": -20.333333333333332,
     "num_episodes": 3,
-    "cumulative_energy_j": 107162.0
+    "cumulative_energy_j": 107162.0,
+    "energy_per_step_kg_co2": 0.01095456325806646
   },
   {
     "step": 30000,
     "mean_reward": -20.666666666666668,
     "num_episodes": 3,
-    "cumulative_energy_j": 160743.0
+    "cumulative_energy_j": 160743.0,
+    "energy_per_step_kg_co2": 0.01643184488709969
   },
   {
     "step": 40000,
     "mean_reward": -20.666666666666668,
     "num_episodes": 3,
-    "cumulative_energy_j": 214324.0
+    "cumulative_energy_j": 214324.0,
+    "energy_per_step_kg_co2": 0.02190912651613292
   },
   {
     "step": 50000,
     "mean_reward": -21.0,
     "num_episodes": 3,
-    "cumulative_energy_j": 267904.9
+    "cumulative_energy_j": 267904.9,
+    "energy_per_step_kg_co2": 0.02738640814516615
   },
   {
     "step": 60000,
     "mean_reward": -19.666666666666668,
     "num_episodes": 3,
-    "cumulative_energy_j": 321485.9
+    "cumulative_energy_j": 321485.9,
+    "energy_per_step_kg_co2": 0.03286368977419938
   },
   {
     "step": 70000,
     "mean_reward": -20.666666666666668,
     "num_episodes": 3,
-    "cumulative_energy_j": 375066.9
+    "cumulative_energy_j": 375066.9,
+    "energy_per_step_kg_co2": 0.03834097140323261
   },
   {
     "step": 80000,
     "mean_reward": -19.5,
     "num_episodes": 2,
-    "cumulative_energy_j": 428647.9
+    "cumulative_energy_j": 428647.9,
+    "energy_per_step_kg_co2": 0.04381825303226584
   },
   {
     "step": 90000,
     "mean_reward": -21.0,
     "num_episodes": 3,
-    "cumulative_energy_j": 482228.9
+    "cumulative_energy_j": 482228.9,
+    "energy_per_step_kg_co2": 0.04929553466129907
   },
   {
     "step": 100000,
     "mean_reward": -21.0,
     "num_episodes": 3,
-    "cumulative_energy_j": 535809.9
+    "cumulative_energy_j": 535809.9,
+    "energy_per_step_kg_co2": 0.0547728162903323
   },
   {
     "step": 110000,
     "mean_reward": -21.0,
     "num_episodes": 4,
-    "cumulative_energy_j": 589390.9
+    "cumulative_energy_j": 589390.9,
+    "energy_per_step_kg_co2": 0.06025009791936553
   },
   {
     "step": 120000,
     "mean_reward": -20.666666666666668,
     "num_episodes": 3,
-    "cumulative_energy_j": 642971.9
+    "cumulative_energy_j": 642971.9,
+    "energy_per_step_kg_co2": 0.06572737954839876
   },
   {
     "step": 130000,
     "mean_reward": -20.0,
     "num_episodes": 2,
-    "cumulative_energy_j": 696552.8
+    "cumulative_energy_j": 696552.8,
+    "energy_per_step_kg_co2": 0.07120466117743199
   },
   {
     "step": 140000,
     "mean_reward": -19.5,
     "num_episodes": 2,
-    "cumulative_energy_j": 750133.8
+    "cumulative_energy_j": 750133.8,
+    "energy_per_step_kg_co2": 0.07668194280646522
   },
   {
     "step": 150000,
     "mean_reward": -18.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 803714.8
+    "cumulative_energy_j": 803714.8,
+    "energy_per_step_kg_co2": 0.08215922443549845
   },
   {
     "step": 160000,
     "mean_reward": -18.5,
     "num_episodes": 2,
-    "cumulative_energy_j": 857295.8
+    "cumulative_energy_j": 857295.8,
+    "energy_per_step_kg_co2": 0.08763650606453167
   },
   {
     "step": 170000,
     "mean_reward": -20.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 910876.8
+    "cumulative_energy_j": 910876.8,
+    "energy_per_step_kg_co2": 0.0931137876935649
   },
   {
     "step": 180000,
     "mean_reward": -20.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 964457.8
+    "cumulative_energy_j": 964457.8,
+    "energy_per_step_kg_co2": 0.09859106932259815
   },
   {
     "step": 190000,
     "mean_reward": -18.5,
     "num_episodes": 2,
-    "cumulative_energy_j": 1018038.8
+    "cumulative_energy_j": 1018038.8,
+    "energy_per_step_kg_co2": 0.10406835095163137
   },
   {
     "step": 200000,
     "mean_reward": -17.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1071619.8
+    "cumulative_energy_j": 1071619.8,
+    "energy_per_step_kg_co2": 0.1095456325806646
   },
   {
     "step": 210000,
     "mean_reward": -19.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1125200.8
+    "cumulative_energy_j": 1125200.8,
+    "energy_per_step_kg_co2": 0.11502291420969783
   },
   {
     "step": 220000,
     "mean_reward": -17.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1178781.7
+    "cumulative_energy_j": 1178781.7,
+    "energy_per_step_kg_co2": 0.12050019583873106
   },
   {
     "step": 230000,
     "mean_reward": -14.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1232362.7
+    "cumulative_energy_j": 1232362.7,
+    "energy_per_step_kg_co2": 0.12597747746776428
   },
   {
     "step": 240000,
     "mean_reward": -13.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1285943.7
+    "cumulative_energy_j": 1285943.7,
+    "energy_per_step_kg_co2": 0.13145475909679752
   },
   {
     "step": 250000,
     "mean_reward": -12.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1339524.7
+    "cumulative_energy_j": 1339524.7,
+    "energy_per_step_kg_co2": 0.13693204072583076
   },
   {
     "step": 260000,
     "mean_reward": -13.0,
     "num_episodes": 2,
-    "cumulative_energy_j": 1393105.7
+    "cumulative_energy_j": 1393105.7,
+    "energy_per_step_kg_co2": 0.14240932235486398
   },
   {
     "step": 280000,
     "mean_reward": -8.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1500267.7
+    "cumulative_energy_j": 1500267.7,
+    "energy_per_step_kg_co2": 0.15336388561293043
   },
   {
     "step": 290000,
     "mean_reward": -11.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1553848.7
+    "cumulative_energy_j": 1553848.7,
+    "energy_per_step_kg_co2": 0.15884116724196368
   },
   {
     "step": 300000,
     "mean_reward": -1.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1607429.7
+    "cumulative_energy_j": 1607429.7,
+    "energy_per_step_kg_co2": 0.1643184488709969
   },
   {
     "step": 310000,
     "mean_reward": -10.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1661010.6
+    "cumulative_energy_j": 1661010.6,
+    "energy_per_step_kg_co2": 0.16979573050003013
   },
   {
     "step": 320000,
     "mean_reward": -5.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1714591.6
+    "cumulative_energy_j": 1714591.6,
+    "energy_per_step_kg_co2": 0.17527301212906335
   },
   {
     "step": 330000,
     "mean_reward": -7.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1768172.6
+    "cumulative_energy_j": 1768172.6,
+    "energy_per_step_kg_co2": 0.1807502937580966
   },
   {
     "step": 340000,
     "mean_reward": -10.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1821753.6
+    "cumulative_energy_j": 1821753.6,
+    "energy_per_step_kg_co2": 0.1862275753871298
   },
   {
     "step": 350000,
     "mean_reward": -12.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1875334.6
+    "cumulative_energy_j": 1875334.6,
+    "energy_per_step_kg_co2": 0.19170485701616305
   },
   {
     "step": 360000,
     "mean_reward": -12.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1928915.6
+    "cumulative_energy_j": 1928915.6,
+    "energy_per_step_kg_co2": 0.1971821386451963
   },
   {
     "step": 370000,
     "mean_reward": 8.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 1982496.6
+    "cumulative_energy_j": 1982496.6,
+    "energy_per_step_kg_co2": 0.2026594202742295
   },
   {
     "step": 380000,
     "mean_reward": -11.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 2036077.6
+    "cumulative_energy_j": 2036077.6,
+    "energy_per_step_kg_co2": 0.20813670190326275
   },
   {
     "step": 390000,
     "mean_reward": -8.0,
     "num_episodes": 1,
-    "cumulative_energy_j": 2089658.5
+    "cumulative_energy_j": 2089658.5,
+    "energy_per_step_kg_co2": 0.21361398353229596
   }
 ]

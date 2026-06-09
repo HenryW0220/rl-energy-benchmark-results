@@ -2,56 +2,67 @@
   {
     "step": 0,
     "mean_reward": 264.7294006347656,
-    "cumulative_energy_j": 0.0
+    "cumulative_energy_j": 0.0,
+    "energy_per_step_kg_co2": 0.0
   },
   {
     "step": 10000,
     "mean_reward": 768.9185791015625,
-    "cumulative_energy_j": 49563.6
+    "cumulative_energy_j": 49563.6,
+    "energy_per_step_kg_co2": 0.0050666110150882305
   },
   {
     "step": 20000,
     "mean_reward": 978.9993286132812,
-    "cumulative_energy_j": 99127.3
+    "cumulative_energy_j": 99127.3,
+    "energy_per_step_kg_co2": 0.010133222030176461
   },
   {
     "step": 30000,
     "mean_reward": 973.9127807617188,
-    "cumulative_energy_j": 148690.9
+    "cumulative_energy_j": 148690.9,
+    "energy_per_step_kg_co2": 0.01519983304526469
   },
   {
     "step": 40000,
     "mean_reward": 867.8873291015625,
-    "cumulative_energy_j": 198254.6
+    "cumulative_energy_j": 198254.6,
+    "energy_per_step_kg_co2": 0.020266444060352922
   },
   {
     "step": 50000,
     "mean_reward": 994.6862182617188,
-    "cumulative_energy_j": 247818.2
+    "cumulative_energy_j": 247818.2,
+    "energy_per_step_kg_co2": 0.025333055075441153
   },
   {
     "step": 60000,
     "mean_reward": 998.4364013671876,
-    "cumulative_energy_j": 297381.9
+    "cumulative_energy_j": 297381.9,
+    "energy_per_step_kg_co2": 0.03039966609052938
   },
   {
     "step": 70000,
     "mean_reward": 998.98876953125,
-    "cumulative_energy_j": 346945.5
+    "cumulative_energy_j": 346945.5,
+    "energy_per_step_kg_co2": 0.035466277105617616
   },
   {
     "step": 80000,
     "mean_reward": 999.0572509765624,
-    "cumulative_energy_j": 396509.1
+    "cumulative_energy_j": 396509.1,
+    "energy_per_step_kg_co2": 0.040532888120705844
   },
   {
     "step": 90000,
     "mean_reward": 998.30517578125,
-    "cumulative_energy_j": 446072.8
+    "cumulative_energy_j": 446072.8,
+    "energy_per_step_kg_co2": 0.04559949913579407
   },
   {
     "step": 100000,
     "mean_reward": 998.1560668945312,
-    "cumulative_energy_j": 495636.4
+    "cumulative_energy_j": 495636.4,
+    "energy_per_step_kg_co2": 0.05066611015088231
   }
 ]

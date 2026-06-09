@@ -4,5 +4,6 @@
   "seed": 0,
   "total_steps": 2000000,
   "elapsed_seconds": 6759.011623,
-  "emissions_kg_co2": 0.037711206326721994
+  "emissions_kg_co2": 0.037711206326721994,
+  "energy_per_step_avg": 1.8855603163360997e-08
 }

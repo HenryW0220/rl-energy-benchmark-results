@@ -1,0 +1,52 @@
+[
+  {
+    "step": 10000,
+    "mean_reward": 23.026834160096314,
+    "energy_per_step_kg_co2": 0.0001767792031745391
+  },
+  {
+    "step": 20000,
+    "mean_reward": 23.948514521674024,
+    "energy_per_step_kg_co2": 0.0003535584063490782
+  },
+  {
+    "step": 30000,
+    "mean_reward": 32.979540310457836,
+    "energy_per_step_kg_co2": 0.0005303376095236173
+  },
+  {
+    "step": 40000,
+    "mean_reward": 31.35850296999945,
+    "energy_per_step_kg_co2": 0.0007071168126981564
+  },
+  {
+    "step": 50000,
+    "mean_reward": 41.44804197343249,
+    "energy_per_step_kg_co2": 0.0008838960158726956
+  },
+  {
+    "step": 60000,
+    "mean_reward": 39.75613917475763,
+    "energy_per_step_kg_co2": 0.0010606752190472346
+  },
+  {
+    "step": 70000,
+    "mean_reward": 47.77345473433307,
+    "energy_per_step_kg_co2": 0.0012374544222217738
+  },
+  {
+    "step": 80000,
+    "mean_reward": 71.75694326469191,
+    "energy_per_step_kg_co2": 0.0014142336253963128
+  },
+  {
+    "step": 90000,
+    "mean_reward": 48.30660116844912,
+    "energy_per_step_kg_co2": 0.001591012828570852
+  },
+  {
+    "step": 100000,
+    "mean_reward": 52.36702484960411,
+    "energy_per_step_kg_co2": 0.0017677920317453913
+  }
+]
