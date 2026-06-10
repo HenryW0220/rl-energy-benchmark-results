@@ -1,0 +1,38 @@
+[
+  {
+    "task": "cartpole-balance",
+    "step": 0,
+    "mean_reward": 116.32142639160156,
+    "energy_per_step_kg_co2": 4.7436798200021876e-07
+  },
+  {
+    "task": "cartpole-balance",
+    "step": 50000,
+    "mean_reward": 986.1779174804688,
+    "energy_per_step_kg_co2": 4.7436798200021876e-07
+  },
+  {
+    "task": "cartpole-balance",
+    "step": 100000,
+    "mean_reward": 999.41943359375,
+    "energy_per_step_kg_co2": 4.7436798200021876e-07
+  },
+  {
+    "task": "walker-walk",
+    "step": 0,
+    "mean_reward": 28.546335220336914,
+    "energy_per_step_kg_co2": 4.7436798200021876e-07
+  },
+  {
+    "task": "walker-walk",
+    "step": 50000,
+    "mean_reward": 964.8834838867188,
+    "energy_per_step_kg_co2": 4.7436798200021876e-07
+  },
+  {
+    "task": "walker-walk",
+    "step": 100000,
+    "mean_reward": 971.88232421875,
+    "energy_per_step_kg_co2": 4.7436798200021876e-07
+  }
+]
